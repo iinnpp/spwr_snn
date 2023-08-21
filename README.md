@@ -6,8 +6,8 @@ Preprint on biorxiv ([here][spwr_biorxiv]).
 
 #### Requirements
 
-brian2 v.2.4.2
-pypet v.0.6.0
+* brian2 v.2.4.2
+* pypet v.0.6.0
 
 #### How-to run
 
@@ -22,7 +22,7 @@ The result are saved in current_dir/'runs'/%Y%m%d_%H%M%S subfolder. This subfold
 * logs (logs of the model run in .txt files, errors are written in separate ERROR.txt file)
 * output (the results of the model simulation in .npy format, subfolder for every run)
 
-Results include: LFP and spiking data plus overview figure with LFP, population rates, spiking raster plots and fractions of active neurons(.png).
+Results in output include: LFP and spiking data plus overview figure with LFP, population rates, spiking raster plots and fractions of active neurons(.png).
 
 
 
