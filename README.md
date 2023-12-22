@@ -1,5 +1,7 @@
 ## Code for spiking neural network model from "A developmental increase of inhibition promotes the emergence of hippocampal ripples"
 
+[![DOI](https://zenodo.org/badge/681264161.svg)](https://zenodo.org/doi/10.5281/zenodo.10424460)
+
 Preprint on biorxiv ([here][spwr_biorxiv]).
 
 [spwr_biorxiv]:https://www.biorxiv.org/content/10.1101/2023.08.11.552951v1
